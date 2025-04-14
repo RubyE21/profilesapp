@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+"id_ed25519_ruby" 
+"id_ed25519_ruby.pub" 
